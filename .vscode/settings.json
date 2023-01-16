@@ -1,0 +1,18 @@
+{
+    "prettier.configPath": "config/.prettierrc",
+    "prettier.ignorePath": "config/.prettierignore",
+    "editor.formatOnSave": true,
+    "javascript.validate.enable": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
