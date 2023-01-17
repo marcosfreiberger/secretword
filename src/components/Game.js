@@ -27,7 +27,7 @@ const Game = ({
   return (
     <div className='game'>
       <p className='points'>
-        <span>Ponruação: {score}</span>
+        <span>Pontuação: {score}</span>
       </p>
       <h1>Adivinhe a palavra:</h1>
       <h3 className='tip'>
